@@ -1,0 +1,1 @@
+# Database_System_for_Suppy_Chain_Transparency_in_Fashion
